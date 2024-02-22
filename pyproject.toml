@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "leaf-ai-backends"
-version = "0.1.0.dev0"
+version = "0.1.0"
 description = "A project that provides AI backnds for LEAF open source projects."
 authors = [
     "The LEAF team (past and future) with the help of all our contributors <leaf@shanda.com>",
